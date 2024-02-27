@@ -1,0 +1,7 @@
+fn main():
+    var x: Int = 1
+    x += 1
+    for n in range(10):
+        print(n)
+        x += 1
+    print(x)
